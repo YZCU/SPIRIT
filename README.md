@@ -1,7 +1,7 @@
 # SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking
 --------------------------------------------------------------------------------------
 
-:running:Keep updating:running:: More detailed tracking results for SENSE have been released.
+:running:Keep updating:running:: More detailed tracking results for SPIRIT have been released.
 - [hotc20test](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
 - [hotc23val_nir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
 - [hotc23val_rednir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
