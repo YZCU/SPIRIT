@@ -1,8 +1,15 @@
-# SPIRIT
-The official implementation of the SPIRIT.
+# SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking
+--------------------------------------------------------------------------------------
 
-Code will be released once it's organized, please give us some more time.
+:running:Keep updating:running:: More detailed tracking results for SENSE have been released.
+- [hotc20test](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc23val_nir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc23val_rednir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc23val_vis](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc24val_nir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc24val_rednir](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [hotc24val_vis](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [mssot](https://www.sciencedirect.com/science/article/pii/S0924271623002551) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
+- [msvt](https://www.sciencedirect.com/science/article/pii/S0924271621002860) ([results](https://github.com/YZCU/SENSE/tree/master/tracking_results))
 
-We released the results.
-
-Thank you very much.
+--------------------------------------------------------------------------------------
