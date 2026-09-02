@@ -11,5 +11,6 @@
 - [hotc24val_vis](https://www.hsitracking.com/) ([results](https://github.com/YZCU/SPIRIT/tree/main/tracking_results))
 - [mssot](https://www.sciencedirect.com/science/article/pii/S0924271623002551) ([results](https://github.com/YZCU/SPIRIT/tree/main/tracking_results))
 - [msvt](https://www.sciencedirect.com/science/article/pii/S0924271621002860) ([results](https://github.com/YZCU/SPIRIT/tree/main/tracking_results))
+- [must](https://ieeexplore.ieee.org/document/11091847) ([results](https://github.com/YZCU/SPIRIT/blob/main/tracking_results/SPIRIT_on_MUST.rar))
 
 --------------------------------------------------------------------------------------
